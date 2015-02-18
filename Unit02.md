@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM103: Organic Chemistry I"
+course_description: "A detailed introduction to the structure, bonding and reactivity of organic molecules. Surveys valence bond theory and bonding, covalent bonding properties, including molecular geometries and polarity, resonance, functional groups, basic organic reactions, and nomenclature."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Overview of Organic Chemistry: Functional Groups and Classes
 of Chemical Reactions** <span id="2"></span> 
 *Here you will learn the basic concepts necessary to understanding the

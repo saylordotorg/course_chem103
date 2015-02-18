@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM103: Organic Chemistry I"
+course_description: "A detailed introduction to the structure, bonding and reactivity of organic molecules. Surveys valence bond theory and bonding, covalent bonding properties, including molecular geometries and polarity, resonance, functional groups, basic organic reactions, and nomenclature."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Alkenes** <span id="6"></span> 
 *Alkenes are hydrocarbons with carbon-carbon double bonds.  Alkenes are
 also known as ‘olefins’ which means ‘oil forming gas’.  Many important

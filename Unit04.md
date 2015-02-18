@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM103: Organic Chemistry I"
+course_description: "A detailed introduction to the structure, bonding and reactivity of organic molecules. Surveys valence bond theory and bonding, covalent bonding properties, including molecular geometries and polarity, resonance, functional groups, basic organic reactions, and nomenclature."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Alkyl Halides** <span id="4"></span> 
 *The alkyl halide is the first class of reactive molecules you will
 encounter in your organic chemistry course (as you may recall, alkanes

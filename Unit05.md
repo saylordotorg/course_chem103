@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM103: Organic Chemistry I"
+course_description: "A detailed introduction to the structure, bonding and reactivity of organic molecules. Surveys valence bond theory and bonding, covalent bonding properties, including molecular geometries and polarity, resonance, functional groups, basic organic reactions, and nomenclature."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Alcohols** <span id="5"></span> 
 *Alcohols are characterized by the presence of a hydroxyl group bound to
 a carbon (C-OH) in the molecular structure.  This is the first family of
