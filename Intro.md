@@ -106,3 +106,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 6](https://legacy.saylor.org/chem103/Unit06/)
 - [Unit 7](https://legacy.saylor.org/chem103/Unit07/)
 - [Unit 8](https://legacy.saylor.org/chem103/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM103/CHEM103-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM103/CHEM103-FinalExam-Answers.html)
